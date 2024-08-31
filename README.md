@@ -1,4 +1,4 @@
-# **Project Title**: Innovative Hackathon on Cyber Safety for Women: Unique Image ID for Tracking and Deletionn
+# **Project Title**: Innovative Hackathon on Cyber Safety for Women: Unique Image ID for Tracking and Deletion
 # 1. Introduction
 **1.1 Problem Statement**
 Cyber safety is a significant concern, especially for women, who are often the targets of cybercrimes like image-based abuse. When private images are leaked or shared without consent, the repercussions can be devastating. Traditional methods of tracking and deleting such images are inadequate, as images can be quickly disseminated across multiple platforms, making it challenging to identify and remove all copies
